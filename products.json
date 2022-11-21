@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": {"id": "1"},
+      "fields": {
+        "title": "assasins creed: Valhalla",
+        "price": 140.99,
+        "image": {"fields": {"file": {"url": "./img/assassinsValhalla.jpg"} } }
+      }
+    },
+    {
+      "sys": {"id": "2"},
+      "fields":{
+        "title": "final fantasy 7 remake",
+        "price": 200.99,
+        "image": {"fields":{"file":{"url": "./img/ff7remake.jpg"} } }
+      }
+    },
+    {
+      "sys": {"id": "3"},
+      "fields": {
+        "title": "fifa 19",
+        "price": 210.99,
+        "image": {"fields":{"file": {"url": "./img/fifa19.jpg"} } }
+      }
+    },
+    {
+      "sys": {"id": "4"},
+      "fields":{
+        "title": "the last of us 2",
+        "price":150.99,
+        "image": {"fields":{"file": {"url": "./img/lastOfUs2.jpg"} } }
+      }
+    },
+    {
+      "sys":{"id": "5"},
+      "fields": {
+        "title": "narcos: rise of the cartels",
+        "price":140.99,
+        "image": {"fields":{"file":{"url": "./img/narcos.jpg"} } }
+      }
+    },
+    {
+      "sys": {"id": "6"},
+      "fields": {
+        "title": "spider-man",
+        "price":150.99,
+        "image":{"fields":{"file":{"url": "./img/spiderMan.jpg"} } }
+      }
+    },
+    {
+      "sys": {"id": "7"},
+      "fields": {
+        "title": "street fighter 5: arcade version",
+        "price":210.99,
+        "image":{"fields":{"file":{"url": "./img/streetFighter5.jpg"} } }
+      }
+    },
+    {
+      "sys": {"id": "8"},
+      "fields": {
+        "title": "until dawn",
+        "price":140.99,
+        "image": {"fields":{"file":{"url": "./img/untilDawn.jpg"} } }
+      }
+    }
+  ]
+}
